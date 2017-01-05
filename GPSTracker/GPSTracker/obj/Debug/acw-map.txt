@@ -1,0 +1,8 @@
+GPSTracker.MainActivity, GPSTracker;md5de6d21b34101e9947fc3d82ad469abf1.MainActivity
+GPSTracker.MainActivity, GPSTracker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de6d21b34101e9947fc3d82ad469abf1.MainActivity
+GPSTracker.MainActivity;md5de6d21b34101e9947fc3d82ad469abf1.MainActivity
+gpstracker.MainActivity;md5de6d21b34101e9947fc3d82ad469abf1.MainActivity
+GPSTracker.TrackingService, GPSTracker;md5de6d21b34101e9947fc3d82ad469abf1.TrackingService
+GPSTracker.TrackingService, GPSTracker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5de6d21b34101e9947fc3d82ad469abf1.TrackingService
+GPSTracker.TrackingService;md5de6d21b34101e9947fc3d82ad469abf1.TrackingService
+gpstracker.TrackingService;md5de6d21b34101e9947fc3d82ad469abf1.TrackingService
